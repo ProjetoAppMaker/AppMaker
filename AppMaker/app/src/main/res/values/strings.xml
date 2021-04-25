@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebaseteste</string>
+    <string name="email">Insert your email</string>
+    <string name="password">Insert you password</string>
+    <string name="already_have_an_account_sign_in_here">Already have an account? Sign in here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="not_registered_sign_up_here">Not registered? Sign up here</string>
+    <string name="sign_in">Sign in</string>
+</resources>
